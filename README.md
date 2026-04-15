@@ -36,7 +36,7 @@ Returns the profile information of the user.
 {
   "name": "Ayokunle Ola-Akande",
   "email": "theayokayzy1@gmail.com",
-  "github": "https://github.com/ayokayzy"
+  "github": "https://github.com/Ayokayzy/profile-api"
 }
 ```
 
