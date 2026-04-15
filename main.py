@@ -20,7 +20,7 @@ async def me():
         content={
             "name": "Ayokunle Ola-Akande",
             "email": "theayokayzy1@gmail.com",
-            "github": "https://github.com/ayokayzy"
+            "github": "https://github.com/Ayokayzy/profile-api"
         },
         status_code=200
     )
